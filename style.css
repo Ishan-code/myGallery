@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+em {
+    font-size: 25px;
+}
+
+b {
+    15px;
+}
